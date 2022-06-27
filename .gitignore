@@ -1,8 +1,12 @@
 .DS_Store
 
+__pycache__
+
 .ipynb_checkpoints/
 
 *.pdf
 
 *.csv.gz
 *.parquet
+
+config.py
